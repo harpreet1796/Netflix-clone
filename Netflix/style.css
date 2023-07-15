@@ -1,0 +1,215 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+.hero{
+    height: 600px;
+    background-image: url(header-image.png);
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+    background-image: url(header-image\ \(2\).png);
+}
+
+.logo{
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 950px;
+}
+
+.signIn{
+    background-color: red;
+    color: white;
+    width: 100px;
+    max-height: 50px;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.signIn-text{
+    margin-top: 10px;
+    font-weight: normal;
+}
+
+.heroText{
+    font-family: Bahnschrift;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 50px;
+    padding-bottom: 0;
+    border-bottom: 0;
+    margin-bottom: 0;
+}
+
+.heroTextS{
+    font-family: Candara;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 0;
+}
+
+.heroTextSs{
+    font-family: Candara;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.signInS{
+    background-color: red;
+    color: white;
+    width: 150px;
+    border-radius: 5px;
+    height: 60px;
+    font-size: 20px;
+    font-family: Bahnschrift;
+    margin-left: 550px;
+}
+
+.signIn-textS{
+    padding-top: 15px;
+    font-weight: normal;
+}
+
+.heroTextL{
+    text-align: center;
+}
+
+.TV{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.TVimg{
+    width: 450px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.TVtext{
+    color: white;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-right: 350px;
+}
+
+.TVtextL{
+    font-family: Bahnschrift;
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.TVtextS{
+    font-family: Bahnschrift;
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.divider{
+    background-color: rgb(78, 78, 78);
+    height: 5px;
+    margin-bottom: 20px;
+}
+
+.offline{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.offlineImg{
+    width: 450px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.offlineText{
+    color: white;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 350px;
+}
+
+.offlineTextL{
+    font-family: Bahnschrift;
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.offlineTextS{
+    font-family: Bahnschrift;
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.device{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    margin-left: 0;
+    padding-left: 0;
+    border: 0;
+}
+
+.deviceImg{
+    width: 450px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.deviceText{
+    color: white;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-right: 350px;
+    margin-left: 0;
+    padding-left: 0;
+    border: 0;
+}
+
+.deviceTextL{
+    font-family: Bahnschrift;
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    padding-left: 0;
+    border: 0;
+}
+
+.deviceTextS{
+    font-family: Bahnschrift;
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    padding-left: 0;
+    border: 0;
+}
